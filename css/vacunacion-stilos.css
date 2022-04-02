@@ -1,0 +1,29 @@
+.imagen{
+    width: 500px;
+    height: 350PX;
+    background-image: url(../img/pokedex.jpg);
+    background-size: 500px;
+ }
+ .pokeimg{
+    width: 176px;
+    height: 107px;
+    background-color: white;
+    position: relative;
+    left: 45px;
+    top: 109px;
+ }
+ .pokeinput{
+     /*with: 10px;
+     height: 15px;
+     background-color: rgb(104, 194, 131);*/
+     position: relative;
+     
+     left: 58px;
+     top: 155px;
+ }
+.boton{
+    padding: 0px;
+    position: relative;
+    left: 70px;
+    top: 155px;
+}
